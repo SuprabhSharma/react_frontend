@@ -79,7 +79,7 @@ function App() {
             setCharAllowed((prev)=>!prev);
           }}
         />
-        <label htmlFor='characterInput'>Characters</label>
+        <label htmlFor='characterInput'> Characters </label>
         </div>
       </div>
       </div>
